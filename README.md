@@ -1,4 +1,4 @@
-# russian_data_extractor
+# russian_date_extractor
 This func extracts dates from russian text with many formats of date
 
 Функция в данном файле поможет выделить из русскоязычного текста даты предсьавленные
